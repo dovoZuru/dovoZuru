@@ -1,6 +1,27 @@
-## Hi, I'm a full-stack developer focused on Ruby on Rails.
+## Hi, I'm Favour 👋
 
-🔭 Building full-stack projects  
-🌱 Currently learning backend development with Rails  
-💬 Open to collaboration and entry-level opportunities  
+Software Engineer currently working at Tesla Gigafactory Berlin.
+
+I'm passionate about:
+- Software Engineering
+- Quality Assurance
+- Test Automation
+- Full-Stack Development
+
+## Tech Stack
+
+JavaScript
+Ruby on Rails
+Git
+HTML
+CSS
+
+## Currently Learning
+
+- Test Automation
+- Software QA
+- Python
+
+## Connect
+
 📫 Reach me: [here](https://www.linkedin.com/in/dovo)
